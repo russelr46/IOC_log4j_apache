@@ -1,0 +1,66 @@
+Indicator_type,Data,Note:
+ip,134.209.26.39,observed in Log4j exploit
+ip,199.217.117.92,observed in Log4j exploit
+url,pwn.af,observed in Log4j exploit
+ip,188.120.246.215,observed in Log4j exploit
+url,kryptoslogic-cve-2021-44228.com,observed in Log4j exploit
+url,nijat.space,observed in Log4j exploit
+ip,45.33.47.240,observed in Log4j exploit
+ip,31.6.19.41,observed in Log4j exploit
+ip,205.185.115.217,observed in Log4j exploit
+url,log4j.kingudo.de,observed in Log4j exploit
+ip,101.43.40.206,observed in Log4j exploit
+url,psc4fuel.com,observed in Log4j exploit
+ip,185.162.251.208,observed in Log4j exploit
+ip,137.184.61.190,observed in Log4j exploit
+ip,162.33.177.73,observed in Log4j exploit
+ip,34.125.76.237,observed in Log4j exploit
+ip,162.255.202.246,observed in Log4j exploit
+ip,5.22.208.77,observed in Log4j exploit
+ip,45.155.205.233,observed in Log4j exploit
+ip,165.22.213.147,observed in Log4j exploit
+ip,172.111.48.30,observed in Log4j exploit
+ip,133.130.120.176,observed in Log4j exploit
+ip,213.156.18.247,observed in Log4j exploit
+url,m3.wtf,observed in Log4j exploit
+url,poc.brzozowski.io,observed in Log4j exploit
+ip,206.188.196.219,observed in Log4j exploit
+ip,185.250.148.157,observed in Log4j exploit
+ip,132.226.170.154,observed in Log4j exploit
+url,flofire.de,observed in Log4j exploit
+ip,45.130.229.168,observed in Log4j exploit
+url,c19s.net,observed in Log4j exploit
+ip,194.195.118.221,observed in Log4j exploit
+url,awsdns-2.org,observed in Log4j exploit
+ip,2.56.57.208,observed in Log4j exploit
+ip,158.69.204.95,observed in Log4j exploit
+ip,45.130.229.168,observed in Log4j exploit
+ip,163.172.157.143,observed in Log4j exploit
+ip,45.137.21.9,observed in Log4j exploit
+url,bingsearchlib.com,observed in Log4j exploit
+ip,45.83.193.150,observed in Log4j exploit
+ip,165.227.93.231,observed in Log4j exploit
+url,yourdns.zone.here,observed in Log4j exploit
+url,eg0.ru,observed in Log4j exploit
+url,dataastatistics.com,observed in Log4j exploit
+url,log4j-test.xyz,observed in Log4j exploit
+ip,79.172.214.11,observed in Log4j exploit
+ip,152.89.239.12,observed in Log4j exploit
+ip,67.205.191.102,observed in Log4j exploit
+url,ds.Rce.ee,observed in Log4j exploit
+ip,38.143.9.76,observed in Log4j exploit
+ip,31.191.84.199,observed in Log4j exploit
+ip,143.198.237.19,observed in Log4j exploit
+url,interactsh.com,can be false positive heavy
+url,interact.sh,can be false positive heavy
+url,burpcollaborator.net,can be false positive heavy
+url,requestbin.net,can be false positive heavy
+url,dnslog.cn,can be false positive heavy
+url,canarytokens.com,can be false positive heavy
+url,dnslog.cn,can be false positive heavy
+url,canarytokens.com,can be false positive heavy
+ip,45.155.205.233,listener and a scanner at the same time
+ip,194.151.29.154,listener and a scanner at the same time
+ip,158.69.204.95,listener and a scanner at the same time
+ip,47.254.127.78,listener and a scanner at the same time
+ip,47.254.127.78,listener and a scanner at the same time
